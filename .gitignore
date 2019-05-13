@@ -8,9 +8,8 @@ __pycache__/
 *.so
 
 #Data folders
-recommendations/data/ml-100k
-recommendations/data/ml-latest-small
-
+recommendations/data/*
+!recommendations/data/.gitkeep
 # Distribution / packaging
 .Python
 build/
