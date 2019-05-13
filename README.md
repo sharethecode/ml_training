@@ -21,3 +21,4 @@ Connect to Jupyter notebook
      http://localhost:8888
 
 1. Recommendations
+   Instructions to download the data for the notebook are in the notebook code, please the downloaded data in the data folder under recommendations
